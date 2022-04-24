@@ -1,0 +1,59 @@
+
+
+body{
+	                                                                  
+
+                                                
+}
+
+header{
+	height: 30vh;
+	background:#B11313;
+	text-align: right;
+
+}
+
+header nav{
+	display:inline-flex;
+	justify-content:space-around;
+
+
+}
+
+header nav a{
+        color: #fff;
+        text-decoration: none;
+        margin-right: 100px;
+}
+
+div.principal{height:40vh;
+	background:#B11313 ;
+	display: inline-flex;
+
+
+}
+
+
+div.second{
+	background: #114C92;
+}
+
+
+
+div.trois{
+	background: #B11313;
+}
+
+div.trois img{
+
+
+}
+
+
+
+
+
+footer{
+	background: #000000;
+	height: 70vh;
+}
